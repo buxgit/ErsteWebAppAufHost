@@ -11,11 +11,11 @@ h1 {
 }
 
 button {
-  padding: 10px 20px;
+  padding: 50px 100x;
   font-size: 30px;
   border-radius: 8px;
   border: none;
-  background-color: #007bff;
+  background-color: #0d00ff;
   color: white;
   cursor: pointer;
 }
