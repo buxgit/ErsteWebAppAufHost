@@ -1,3 +1,3 @@
-document.getElementById("changeTextBtn").addEventListener("click", function() {
-  document.getElementById("headline").innerText = "Du hast den Button gedrückt 🚀";
+document.getElementById("startBtn").addEventListener("click", function() {
+  document.getElementById("headline").innerText = "CaBuX gestartet";
 });
