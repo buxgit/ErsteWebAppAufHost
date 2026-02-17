@@ -10,4 +10,3 @@ document.getElementById("startBtn").addEventListener("click", function() {
   gameStarted = true;
   console.log(`gameStarted = ${gameStarted}`)
 });
-
