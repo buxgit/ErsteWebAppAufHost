@@ -3,7 +3,7 @@ info:
 - https://erste-web-app-auf-host.vercel.app/
 - Gemini: https://www.google.com/search?client=firefox-b-d&hs=ihhU&sca_esv=43c0733073c9c04f&sxsrf=ANbL-n5MDY64V0v_fmtCItEWvUndxo-CHQ%3A1771362390961&udm=50&aep=26&ntc=1&sa=X&ved=2ahUKEwihwbWSueGSAxWj8zgGHU5POIgQoo4PegYIAQgAEAU&biw=1485&bih=703&dpr=1.25&mtid=pdmUaae7Mor_7_UP3s2d8QY&mstk=AUtExfBNenWtd0rQaxUM5CuD5m8xlUhBKWGrW0rHhxLXLdj9Hlbj2JvAfvp6vV5x_2-7Txz0uYYbo8VkHEG2hSxJD5lbjRy2JMDmQTbNjN7wQyTefVN7oE-F9Lcd7NCtpaOmvoE9ZiTl7Fu8Ngp2cqmYqqr-tfmkvXtJhvi0QPAhPnIablNbV2VqIdBeWnLEc5UbiKivFe49k99AQ1uK94HZfCwJaHwL8GGiu7s3741LVrePV_zZgWLUZn0uOuKWlkhYZqVBaesLdY7ksSzNZpm1dsPRmH-3OGmz9TBog6Ho7EbdyNZrGERlATjcTei2j1F9avZj8cFYZdoxCA&csuir=1&q=ich+m%C3%B6chte+eine+internetseite+erstellen%2C+auf+der+karten+spiel+gehostet+wird%2C+dieses+spiel+hat+2-5+spieler+dementsprechend+muss+ein+login+mit+den+Einwahldaten+der+spielenden+erstellt+werden.+dann+braucht+jeder+spieler+eine+hand.+es+muss+die+spiellogik+implementiert+werden.+%0A%0AZuerst+soll+man+sich+auf+der+Seite+also+einloggen%2C+dann+sind+die+eingeloggten+spieler+auf+der+n%C3%A4chsten+Seite+zu+sehen%2C+wenn+alle+spieler+einen+%22Bereit%22+Button+bet%C3%A4tigt+haben%2C+beginnt+das+spiel+und+man+kommt+weiter+auf+den+spielbildschirm.%0A%0AWomit+fange+ich+am+besten+an%2C+schon+gleich+das+Login+verfahren%2C+oder+doch+ersteinmal+die+spiellogik%3F&atvm=2
 - test
-
+125
 TODO:
 - cardBuild.js noch richtig verstehen
 - mit css.Grid die Button richtig anordnen
